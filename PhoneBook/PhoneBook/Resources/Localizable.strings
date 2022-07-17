@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PhoneBook
+
+  Created by Sadegh on 7/15/22.
+  
+*/
+
+"contacts" = "Contacts";
+"contact.name" = "Name:";
+"contact.lastname" = "Lastname:";
+"contact.phone" = "Phone:";
+"contact.email" = "Email:";
+"contact.note" = "Note:";
+"contact.add" = "Add";
+"contact.edit" = "Edit";
+"contact.save" = "Save";
+"contact.delete" = "Delete";
